@@ -7,7 +7,7 @@ require (
 	github.com/benbjohnson/clock v1.3.5
 	github.com/c-robinson/iplib v1.0.7
 	github.com/cenkalti/backoff/v4 v4.2.1
-	github.com/creachadair/otp v0.4.0
+	github.com/creachadair/otp v0.4.1
 	github.com/google/gopacket v1.1.19
 	github.com/hashicorp/golang-lru v0.5.4
 	github.com/ipfs/go-log v1.0.5
